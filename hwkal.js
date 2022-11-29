@@ -22,20 +22,20 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@hikal857' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.ig = '@gamingid_07' // ubah aja
+global.email = 'autex46@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Dani Maker☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Rendy Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Rendy Maker☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Rendy Maker☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.premium = ['6281251549899','6281348106274'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker☆' // ubah aja
-global.ownerr = ['Dani Maker☆'] // ubaha aja
-global.author = 'Dani Maker☆' //ubah aja
+global.owner = ['6285878943521','6285878943521'] // ubah aja pake nomor lu
+global.premium = ['6285878943521','6285878943521'] // ubah aja pake nomor lu
+global.packname = 'Rendy Maker☆' // ubah aja
+global.ownerr = ['Rendy Maker☆'] // ubaha aja
+global.author = 'Rendy Maker☆' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
